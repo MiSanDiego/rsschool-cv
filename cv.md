@@ -32,4 +32,4 @@ I happily live in Portugal enjoing a life new the ocean. I have some hobbies:
 ```
 And of course my main job is beeing of devoted husband.
 ```
-**Thanks for reading my CV**
+**Thanks for reading my CV, your attention is a pleasure for me**
