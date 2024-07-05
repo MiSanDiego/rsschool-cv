@@ -1,2 +1,1 @@
-[# rsschool-cv
-](https://misandiego.github.io/rsschool-cv/cv.md)
+https://GITHUB-USERNAME.github.io/rsschool-cv/cv
